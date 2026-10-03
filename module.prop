@@ -1,0 +1,7 @@
+id=king_next
+name=King Next Zygisk Module
+version=v1.0.0
+versionCode=100
+author=Anda
+description=Modul Zygisk kustom untuk menyembunyikan status bootloader dan memuat pif.json.
+zygisk=true

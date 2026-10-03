@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "joyeuse",
+  "DEVICE": "joyeuse",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi Note 9 Pro",
+  "FINGERPRINT": "Xiaomi/joyeuse_global/joyeuse:11/RKQ1.200826.002/V12.5.7.0.RJZMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "29"
+}
